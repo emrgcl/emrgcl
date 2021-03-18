@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on Yaml Pipelines
 - 🤔 I’m looking for help with contributors to Azure Monitor Workbook projects
 - 💬 Ask me about anything :) But my best answers would be in the following areas, PowerShell, Azure Monitor, AMA, Digital Photography, SCOM
-- 📫 How to reach me: emreg@microsoft.com [personal website](https://www.emreguclu.io)
-- ⚡ Fun fact: I am also a photography fan!!! check out [Phogoraphy Portfolio](https://www.emreguclu.com)
+- 📫 How to reach me: emreg@microsoft.com [Personal Website](https://www.emreguclu.io)
+- ⚡ Fun fact: I am also a photography fan!!! check out [Photography Portfolio](https://www.emreguclu.com)
 
