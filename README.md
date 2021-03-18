@@ -1,4 +1,4 @@
-- 🌱 My Current project is [**Compliance Helper**](https://github.com/emrgcl/ComplianceHelper/) to asist IT Teams to analyze data for ingested to **Log Analytics**
+- 🌍 My Current project is [**Compliance Helper**](https://github.com/emrgcl/ComplianceHelper/) to asist IT Teams to analyze data for ingested to **Log Analytics**
 - 🔭 I’m currently working on looooots of things but mostly PowerShell and Azure Monitor, Azure Devops, SCOM... Yeah pretty much everything...
 - 🌱 I’m currently learning Devops Pipelines and Azure Monitor Workbooks
 - 👯 I’m looking to collaborate on Azure Devops Pipelines
